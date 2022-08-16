@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-
+// 주석 달기는 ctrl + /
+// 위에꺼 바로 복사는 ctrl + alt + 위아래 화살표
+// 바로 아래로 이동은 ctrl + enter / shift + enter
 public class Gugudan {
 	public static void main(String[] args) {
 		// 2단
